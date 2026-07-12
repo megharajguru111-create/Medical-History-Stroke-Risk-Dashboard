@@ -1,4 +1,4 @@
-# Medical History & Stroke Risk Dashboard
+![Medical History Dashboard](dashboard.png)
 
 ## Overview
 An interactive Power BI dashboard for analyzing stroke risk and patient health data.
